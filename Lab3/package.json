@@ -1,0 +1,15 @@
+{
+  "name": "lab3-inventory-management",
+  "version": "1.0.0",
+  "description": "Inventory and Data Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.0",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.0"
+  }
+}
